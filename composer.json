@@ -1,12 +1,12 @@
 {
-    "name": "emsifa/api-wilayah",
+    "name": "farhanfr/api-wilayah",
     "description": "Public API Wilayah Indonesia",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Muhammad Syifa",
-            "email": "emsifa@gmail.com"
+            "name": "Farhan Rusli",
+            "email": "farhanrusli13@gmail.com"
         }
     ],
     "autoload": {
